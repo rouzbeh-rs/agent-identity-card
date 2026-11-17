@@ -58,7 +58,7 @@
   },
   "_auditMetadata": {
     "auditor": "[Your Name]",
-    "auditDate": "2026-03-XX",
+    "auditDate": "2026-03-17",
     "methodology": "Manual audit using OpenAI's official documentation including model announcements, system cards, API documentation (platform.openai.com), release notes, help center articles, and published research.",
     "fieldsNotDisclosed": ["architecture.baseModel (parameter counts, training data composition)", "communication.a2aProtocol"],
     "difficultyNotes": {

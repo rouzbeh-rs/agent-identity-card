@@ -85,10 +85,19 @@
   "_auditMetadata": {
     "auditor": "[Your Name]",
     "auditDate": "2026-03-17",
+    "methodology": "Manual audit using Perplexity AI's official website, blog posts, API documentation (docs.perplexity.ai), help center, and credible third-party analyses.",
     "fieldsNotDisclosed": [
       "architecture.memorySystem (long-term)",
       "communication.a2aProtocol",
       "evaluation.benchmarks (system-level)"
-    ]
+    ],
+    "difficultyNotes": {
+      "identity": "Easy",
+      "purpose": "Easy",
+      "architecture": "Moderate — multi-model routing architecture required synthesis from unofficial sources. Internal intent classifier not publicly documented.",
+      "capabilities": "Easy — tools visible in UI and documented in API docs.",
+      "communication": "Easy for I/O modalities. A2A not disclosed.",
+      "evaluation": "Difficult — no system-level benchmarks published for the composite system. Only individual model benchmarks available."
+    }
   }
 }

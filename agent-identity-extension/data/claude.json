@@ -57,7 +57,7 @@
   },
   "_auditMetadata": {
     "auditor": "[Your Name]",
-    "auditDate": "2026-03-XX",
+    "auditDate": "2026-03-17",
     "methodology": "Manual audit using Anthropic's system cards, API documentation, blog posts, and published benchmark results.",
     "fieldsNotDisclosed": ["architecture.baseModel (parameter counts)"],
     "difficultyNotes": {
