@@ -28,7 +28,13 @@ The paper extracts **eleven design principles** from this cross-domain survey an
 │       ├── claude.json           # Claude (Anthropic) audit
 │       └── chatgpt.json         # ChatGPT (OpenAI) audit
 └── figures/                      # Paper figures
-    └── fig1_design_variants.png  # Five design variant comparison
+    ├── fig1a_variant_a.png       # Variant A: Composite Letter Grade
+    ├── fig1b_variant_b.png       # Variant B: Grid/Icon Layout
+    ├── fig1c_variant_c.png       # Variant C: Risk-Stratified Layers
+    ├── fig1d_variant_d.png       # Variant D: Risk-First Format
+    ├── fig1e_variant_e.png       # Variant E: Progressive Disclosure
+    ├── fig1f_chosen_design.png   # Chosen Design: Principled Synthesis
+    └── fig2_identity_cards.png   # Three rendered Identity Cards
 ```
 
 ## Browser Extension
@@ -88,7 +94,7 @@ The paper evaluates five alternative Identity Card designs, each drawing from a 
 | **D: Risk-First Format** | FDA Drug Facts | Partially adopted — mandatory "Known Limitations" |
 | **E: Progressive Disclosure** | HCI (Nielsen) | Rejected within card — hidden info stays hidden |
 
-The chosen design is a principled synthesis documented in `figures/fig1_design_variants.png`.
+Each variant is documented as a separate figure (`figures/fig1a` through `fig1f`). The chosen design (`fig1f`) is a principled synthesis. Figure 2 (`fig2_identity_cards.png`) shows the three rendered Agent Identity Cards.
 
 ## JSON Data Model (Tier 1 Schema)
 
