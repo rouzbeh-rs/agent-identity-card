@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository accompanies the paper **"Agent White Paper Protocol: A Standardized Disclosure Format for Autonomous Agents Inspired by the Cross-Domain Nutrition Label Paradigm."**
+This repository accompanies the paper **"Agent White Paper Protocol."**
 
 The paper proposes the first standardized human-facing disclosure format for autonomous AI agents. Its central design contribution is the **Agent Identity Card** — a fixed-format, one-page disclosure whose design is grounded in the empirically validated "standardized disclosure pattern," a cross-domain paradigm with independent validation in:
 
